@@ -5,3 +5,8 @@ h1{
 body{
     background-image: url(/img/apex-background.png)  ;
 }
+
+.navbar {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
